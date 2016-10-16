@@ -1,4 +1,5 @@
-# github-basics
+# Github Basics
+
 Remote repo to help me to test my Github skills!!
 
 [I'm learning this](http://google.com)
